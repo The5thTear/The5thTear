@@ -8,6 +8,6 @@
 
 ![Demon Lord Gleeok 2(TOTK Master Mode](Screenshot_56.png)
 
-![StalHinox Hybrid (TOTK Master Mode](Screenshot_55.png)
+![StalHinox Hybrid (TOTK Master Mode](Screenshot_51.png)
 
 [Tears of the Kingdom Mod Manager Repo](https://github.com/TKMM-Team)
